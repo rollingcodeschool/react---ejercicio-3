@@ -1,4 +1,4 @@
-# React - Ejercicio 2
+# React - Ejercicio 3
 
 Creando componentes funcionales con react
 
