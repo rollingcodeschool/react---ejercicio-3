@@ -1,8 +1,8 @@
-# React - Ejercicio 2
+# React - Ejercicio 3
 
-Creando componentes funcionales con react
+Creando componentes funcionales con react, usos de props y state.
 
-*Ejercicio: Modificar el componente del ejercicio anterior y enviar mediante props el valor “My friend”*
+*Ejercicio: Modificar el componente del ejercicio anterior agregando al componente un state con la clave msj: “(from changed state)”, además agregar un botón al presionar este botón (onClick), el state de la clave msj se debe mostrar por pantalla.*
 
 ## Como probar este proyecto
 
